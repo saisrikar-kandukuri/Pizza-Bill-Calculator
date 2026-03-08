@@ -30,6 +30,7 @@ This is a simple command-line Python program that calculates the total cost of a
 
 ## How to Run
 
+
 Make sure Python is installed, then run:
 
 ```bash
@@ -42,7 +43,8 @@ python pizza_delivery.py
 - User input handling
 - String formatting
 
-**## Author
-
+## Author
 Sai Srikar
-**
+
+
+
