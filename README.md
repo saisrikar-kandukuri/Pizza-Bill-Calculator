@@ -42,6 +42,7 @@ python pizza_delivery.py
 - User input handling
 - String formatting
 
-## Author
+**## Author
 
 Sai Srikar
+**
